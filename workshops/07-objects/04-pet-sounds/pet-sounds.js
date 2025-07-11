@@ -38,3 +38,10 @@ let animalNoises = [
 ];
 
 // YOUR CODE BELOW
+function petSounds(animal, country) {
+  for (let i = 0; i < Object.keys(animalNoises).length; i++) {
+    for (let j = 0; j < Object.keys(animalNoises[i]).length; j++) {
+      if (animalNoises[i])
+    }
+  }
+}
