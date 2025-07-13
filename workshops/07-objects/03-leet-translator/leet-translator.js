@@ -35,5 +35,3 @@ function leetTranslator(str) {
    return teroBeu;
     
 }
-
-console.log(leetTranslator('Fullstack'));

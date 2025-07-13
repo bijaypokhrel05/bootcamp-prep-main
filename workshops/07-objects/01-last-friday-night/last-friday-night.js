@@ -32,7 +32,6 @@ sumTransactions(transactions) // => 10512
 */
 // YOUR CODE BELOW
 function lastFridayNight(transactions) {
-  debugger;
     let totalAmt = 0;
     for (let i=0;i<transactions.length;i++){
         totalAmt += transactions[i].amount;
